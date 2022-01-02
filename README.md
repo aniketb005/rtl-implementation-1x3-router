@@ -1,6 +1,7 @@
 # RTL Design and Implementation of 1x3 Router
 
-This Project was created in 2017. It contains RTL Implementation of a basic Router1x3 (Single Ingress, 3 Egress Ports).
+This RTL Design of the Project was completed in 2017 and verification testbench was added later in 2019.
+It contains RTL Implementation of a basic Router1x3 (Single Ingress, 3 Egress Ports).
 It is designed accepts data packets on a single 8-bit port and routes them to one of the three output ports.
 
 *Add Design Block Diagram here*
