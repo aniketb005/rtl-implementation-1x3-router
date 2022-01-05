@@ -4,10 +4,6 @@ This RTL Design of the Project was completed in 2017 and verification testbench 
 It contains RTL Implementation of a basic Router1x3 (Single Ingress, 3 Egress Ports).
 It is designed accepts data packets on a single 8-bit port and routes them to one of the three output ports.
 
-*Add Design Block Diagram here*
-
-*Add FSM Here*
-
 Following points were covered while completing this project.
 1. Designed a the block level structure for the Router.
 2. Implemented the RTL Design using Verilog HDL and verified using individual verilog testbenches.
